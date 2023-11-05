@@ -1,0 +1,117 @@
+body{
+    /* font-family:Palatino,serif;
+    font-size: 18px; */
+
+    /* background-color:rgb(255, 254, 252); */
+} 
+
+h1,h2,h3,h4,h5,h6{
+    font-family:"Helvetica Neue",Helvetica,Ariel,Sans;
+    font-weight: bold;
+    margin-left: 0;
+    margin-right: 0;
+}
+/* h1{ 
+    font-size: 1.875rem; 
+    line-height: 2.25rem; 
+}
+h2{ 
+    font-size: 1.5rem; 
+    line-height: 2rem; 
+}
+h3{ 
+    font-size: 1.25rem; 
+    line-height: 1.75rem; 
+}
+h4{ 
+    font-size: 1.125rem; 
+    line-height: 1.75rem;
+}     */
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em; 
+}
+h3 { 
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+h4 { 
+    display: block;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+}
+h5 { 
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+}
+h6 { 
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+}
+
+.caption{
+    float: left;
+    font-family: "Helvetica Neue";
+    font-size:80%;
+}
+p{
+    margin-bottom:8px;
+}
+.big{
+    font-size: large;
+}
+.small{
+    font-size: small;
+}
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }

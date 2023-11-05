@@ -1,0 +1,11 @@
+Version Name	Title	Urgency	Categories	Suppl. Categories	Keywords	Instructions	Date Created	Author	Authors Position	City	State/Province	Country	Transmission Reference	Headline	Credit	Source	Copyright Notice	Caption	Caption Writer	Rating
+cooke_donovan_002			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke and Phillipa Sibley-Cooke		2
+cooke_donovan_003			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke and Phillipa Sibley-Cooke		1
+cooke_donovan_004			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		2
+cooke_donovan_005			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		1
+cooke_donovan_007			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		1
+cooke_donovan_008			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		1
+cooke_donovan_009			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		2
+cooke_donovan_010			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		1
+cooke_donovan_011			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		1
+cooke_donovan_012			chefs miettas cooke_donovan		chefs										Tony Knox		&copy Miettas 1995	Donovan Cooke at Miettas 1995		1
